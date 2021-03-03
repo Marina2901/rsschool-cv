@@ -13,7 +13,7 @@ Education
 1996-2001 (expected)
 :   **Kherson State Pedagogical University**; 
    
-   
+  
 2008-2010
 :   **Kiev Polytechnic University**;  (Kiev)
 
