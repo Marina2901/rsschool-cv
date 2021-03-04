@@ -1,5 +1,4 @@
-
-  * {
+ * {
   padding: 0;
 }
 
@@ -42,14 +41,10 @@ h3 {
   text-align: center;
   color: #2c3050;
 }
-h4 {
-  text-align: left;
-  color: c4bcbc;
-}
 
 hr {
   border: none;
-  color: #342c50e;
+  color: #2c3050;
   background-color: #D6D6D6;
   height: 1px;
 }
@@ -81,4 +76,4 @@ img {
 } 
 .skills, .Education, .Experience, .Languages {
   text-align: center;
-} 
+}  
