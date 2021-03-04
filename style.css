@@ -74,6 +74,6 @@ img {
 .contacts {
   text-align: right;
 } 
-.skills, .Education, .Experience, .Languages {
+.skills, .Education, .Experience, .Languages,.footer{
   text-align: center;
-}  
+} 
