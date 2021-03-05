@@ -1,0 +1,79 @@
+ * {
+  padding: 0;
+}
+
+body {
+  background-color: #F8FBE3;
+  font: 16px 'Georgia';
+}
+
+.conteiner {
+  width: 630px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.header {
+  padding: 20px 0;
+}
+
+.header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 51%;
+}
+.photo,
+.author {
+  display: inline-block;
+}
+
+.author {
+  margin-left: 15px;
+  vertical-align: top;
+}
+
+.info_box span {
+  color: #95a5a6
+}
+
+
+h3 {
+  text-align: center;
+  color: #2c3050;
+}
+
+hr {
+  border: none;
+  color: #2c3050;
+  background-color: #D6D6D6;
+  height: 1px;
+}
+
+
+p {
+  text-align: left;
+  color: #3c345e;
+}
+
+a {
+  text-decoration: none;
+  color: #3498db;
+}
+
+li {
+  margin: 10px 0;
+  list-style-type: none;
+}
+
+img {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 5px;
+}
+
+.contacts {
+  text-align: right;
+} 
+.skills, .Education, .Experience, .Languages,.footer{
+  text-align: center;
+} 
